@@ -1,24 +1,40 @@
 # Predictive Maintenance Model for Manufacturing Assets
 
-Portfolio pack by Md Shohrab Hossen Niaz. Fictional / laboratory SME context unless noted. Professional delivery artefact — not a course-code wrapper.
+**Author:** Md Shohrab Hossen Niaz  
+**Focus:** general  
+**Visibility guidance:** public-ok
+
+## Overview
+
+ML ops adjacent predictive model.
 
 ## Research questions
 
-1. What problem does 'Predictive Maintenance Model for Manufacturing Assets' solve for an SME or partner?
-2. What artefact demonstrates a practical solution?
-3. How is success evaluated?
+1. What business problem does “Predictive Maintenance Model for Manufacturing Assets” solve for an SME or partner organisation?
+2. Which artefacts demonstrate a credible, implementable solution?
+3. How is success measured without overstating lab or synthetic evidence?
 
-## Artefacts
+## Deliverables
 
 - problem framing
 - solution design
 - evaluation plan
+- Report and presentation (`Final_Submission/`)
+- Evaluation scorecard (`02_Evaluation/`)
+- Design notes (`01_Design/`)
+- Baseline evidence JSON (`evidence/`)
 
-## Contents
+## Repository layout
 
-- `Final_Submission/` — report, slides, read-me
-- `01_Design/` — design and method notes
-- `02_Evaluation/` — workbook / scorecard
-- `evidence/` — synthetic or lab JSON baseline
+```
+01_Design/           Design and method notes
+02_Evaluation/       Scorecard workbook
+evidence/            Baseline evidence model
+Final_Submission/    Report, slides, appendices
+```
 
-Repository: `predictive-maintenance-model-for-manufacturing-assets`
+## Limits
+
+Synthetic or laboratory baselines are labelled. No production tenant secrets. Where a topic could imply offensive techniques, this pack stays defensive and high-level.
+
+**GitHub:** `predictive-maintenance-model-for-manufacturing-assets`

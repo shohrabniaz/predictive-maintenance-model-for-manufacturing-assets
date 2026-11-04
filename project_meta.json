@@ -1,10 +1,17 @@
 {
-  "seq": 64,
   "title": "Predictive Maintenance Model for Manufacturing Assets",
+  "old_slug": "predictive-maintenance-model-for-manufacturing-assets",
   "slug": "predictive-maintenance-model-for-manufacturing-assets",
   "folder": "Predictive_Maintenance_Model_For_Manufacturing_Assets",
   "kind": "general",
-  "body_words": 242,
+  "body_words": 304,
+  "source": "MICT Academic",
   "project_id": "Academic Project 33",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
