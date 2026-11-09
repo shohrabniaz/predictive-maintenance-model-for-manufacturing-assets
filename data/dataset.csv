@@ -1,0 +1,9 @@
+id,text,label
+1,Urgent predictive-maintenance-model-for-manufacturing-assets alert require immediate action,risk
+2,Weekly predictive-maintenance-model-for-manufacturing-assets status looks normal,benign
+3,Suspicious predictive-maintenance-model-for-manufacturing-assets anomaly detected please verify,risk
+4,Routine predictive-maintenance-model-for-manufacturing-assets maintenance completed,benign
+5,Fraud pattern in predictive-maintenance-model-for-manufacturing-assets submissions,risk
+6,Training notes for predictive-maintenance-model-for-manufacturing-assets operators,benign
+7,Phishing attempt referencing predictive-maintenance-model-for-manufacturing-assets,risk
+8,All clear report for predictive-maintenance-model-for-manufacturing-assets queue,benign
